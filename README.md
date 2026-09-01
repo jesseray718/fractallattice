@@ -19,3 +19,6 @@ print(lattice.trace_hash())
 Nanobots: translate → analyze → feedback → synthesize → validate → amplify.
 
 License: GPL-3.0
+
+## Knowledge Integration
+See `docs/knowledge/`.
